@@ -24,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-origi
 <img align="left" alt="icon" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="icon" width="50px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/deviconhttps://giphy.com/embed/f3iwJFOVOwuy7K6FFw@latest/icons/vscode/vscode-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="icon" width="50px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="icon" width="50px" style="padding-right:10px;"
