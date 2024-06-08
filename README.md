@@ -68,9 +68,8 @@ low lvl si tot ce presupune gestiune de memorie, pointeri, dar si cum poti sa te
 (ma fascineaza ethical hacking). Asadar acum sunt in proces de descoperire a ce presupune securitatea cibernetica, iar aceasta poveste va fi contiuata 
 dupa ce descopar cum sa fac si altceva in afara de buffer overflow.
 
-<iframe src="https://giphy.com/embed/QbumCX9HFFDQA" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fury-kung-hackerman-QbumCX9HFFDQA">via GIPHY</a></p>
 <p align="center">
-  <img width="600px"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR6MDBxMjlyeDZ4NDgwNHFqZ3BwMXRwZWpxNmZ2Mm9vdWR5dTMyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbumCX9HFFDQA/giphy-downsized-large.gif"/>
+  <img width="600px"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR6MDBxMjlyeDZ4NDgwNHFqZ3BwMXRwZWpxNmZ2Mm9vdWR5dTMyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbumCX9HFFDQA/giphy-downsized-large.gif"/>
 </p>
 
 </details>
