@@ -46,7 +46,7 @@ Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselo
 <br/>
 
 <details>
-  <summary>Poveste plictisitoare</summary>
+  <summary><h3>Poveste plictisitoare</h3></summary>
 <h4>Cum de programare?</h4>
   
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
