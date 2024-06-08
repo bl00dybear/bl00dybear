@@ -47,7 +47,7 @@ Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselo
 ---
 
 <details>
-  ### <summary>Cum de programare?</summary>
+  <summary>### Cum de programare?</summary>
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din liceu (clasa a 9-a) am descoperit programarea algoritmilor, practic atunci am deschis prima data un IDE. Entuziasmul a disparut 
 relativ rapid in momentul in care pandemia m-a obligat sa raman in casa. 
