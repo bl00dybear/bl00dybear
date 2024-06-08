@@ -68,8 +68,7 @@ low lvl si tot ce presupune gestiune de memorie, pointeri, dar si cum poti sa te
 (ma fascineaza ethical hacking). Asadar acum sunt in proces de descoperire a ce presupune securitatea cibernetica, iar aceasta poveste va fi contiuata 
 dupa ce descopar cum sa fac si altceva in afara de buffer overflow.
 
-<div class="tenor-gif-embed" data-postid="25721930" data-share-method="host" data-aspect-ratio="1.18959" data-width="100%"><a href="https://tenor.com/view/bugs-video-games-software-developer-gif-25721930">Bugs Video Games GIF</a>from <a href="https://tenor.com/search/bugs-gifs">Bugs GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<img src="" />
+<img src="ttps://tenor.com/view/bugs-video-games-software-developer-gif-25721930" />
 </details>
 
 
