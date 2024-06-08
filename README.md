@@ -68,6 +68,9 @@ low lvl si tot ce presupune gestiune de memorie, pointeri, dar si cum poti sa te
 (ma fascineaza ethical hacking). Asadar acum sunt in proces de descoperire a ce presupune securitatea cibernetica, iar aceasta poveste va fi contiuata 
 dupa ce descopar cum sa fac si altceva in afara de buffer overflow.
 
+<p align="center">
+  <img width="600px"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgzdTBocmVlNmZnazRuOTlxdHlkdDF6YWF1bzEzdGtiN2poMGZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+</p>
 
 </details>
 <img src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif?cid=790b7611y6p6zx14xfjqyuu21avk9i9x056peka3auafs30t&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
