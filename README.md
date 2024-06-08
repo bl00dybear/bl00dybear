@@ -24,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-origi
 <img align="left" alt="icon" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/deviconhttps://giphy.com/embed/f3iwJFOVOwuy7K6FFw@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:10px;"
@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 ### Ce ma pasioneaza in domeniul programarii?
 Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselor. Practic sa inteleg tot ce se intampla de la butoul de RUN pana la outputul din terminal.
 
-(https://giphy.com/embed/f3iwJFOVOwuy7K6FFw)
+[](https://giphy.com/embed/f3iwJFOVOwuy7K6FFw)
 <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
 ---
 ## Cum de programare?
