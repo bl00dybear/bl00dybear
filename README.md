@@ -31,8 +31,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <br />
 
+### Ce ma pasioneaza in domeniul programarii?
+Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselor. Practic sa inteleg tot ce se intampla de la butoul de RUN pana la outputul din terminal.
 
 ---
+## Cum de programare?
 
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din liceu (clasa a 9-a) am descoperit programarea algoritmilor, practic atunci am deschis prima data un IDE. Entuziasmul a disparut 
