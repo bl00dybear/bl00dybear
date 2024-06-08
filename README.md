@@ -1,6 +1,18 @@
 # Opa! Cu ce ocazie la mine pe git??
 ## In fine...oricare ar fi motivul, clar vrei sa afli ceva despre mine, asa ca voi fi succint.
 
+### Cine sunt?
+Eu sunt Sincari Sebastian George, student in anul 1 la Facultatea de Matematica si Informatica, UniBuc
+
+### 
+
+
+
+
+
+
+
+
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din liceu (clasa a 9-a) am descoperit programarea algoritmilor, practic atunci am deschis prima data un IDE. Entuziasmul a disparut 
 relativ rapid in momentul in care pandemia m-a obligat sa raman in cas. 
