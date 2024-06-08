@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <br />
 
-<img  width="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebisincari&layout=compact"/>s
+<img  width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebisincari&layout=compact"/>s
 
 
 ### Ce ma pasioneaza in domeniul programarii?
