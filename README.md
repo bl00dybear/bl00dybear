@@ -30,8 +30,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <img align="left" alt="icon" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <br />
-
-<img  width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebisincari&layout=compact"/>s
+<p align="center">
+<img  width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebisincari&layout=compact"/>s  
+</p>
 
 
 ### Ce ma pasioneaza in domeniul programarii?
