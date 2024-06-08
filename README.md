@@ -34,8 +34,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 ### Ce ma pasioneaza in domeniul programarii?
 Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselor. Practic sa inteleg tot ce se intampla de la butoul de RUN pana la outputul din terminal.
 
-<img align="left" alt="icon" width="30px" style="padding-right:10px;"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgzdTBocmVlNmZnazRuOTlxdHlkdDF6YWF1bzEzdGtiN2poMGZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgzdTBocmVlNmZnazRuOTlxdHlkdDF6YWF1bzEzdGtiN2poMGZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<br/>
 
 ---
 ## Cum de programare?
