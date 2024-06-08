@@ -44,10 +44,11 @@ Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselo
   <img width="600px"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgzdTBocmVlNmZnazRuOTlxdHlkdDF6YWF1bzEzdGtiN2poMGZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </p>
 <br/>
----
 
 <details>
-  <summary>### Cum de programare?</summary>
+  <summary>Poveste plictisitoare</summary>
+Cum de programare?
+  
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din liceu (clasa a 9-a) am descoperit programarea algoritmilor, practic atunci am deschis prima data un IDE. Entuziasmul a disparut 
 relativ rapid in momentul in care pandemia m-a obligat sa raman in casa. 
