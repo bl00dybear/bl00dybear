@@ -11,4 +11,13 @@ Am participat la diverse hackatoane si diverse GameJam-uri, dar cand ne am plict
 departe ce am invatat singuri din tutorialele de pe YouTube si din lunga documentatie Unity.
 
 Am creat local, la noi in liceu o comunitate destul de mare de oameni pasionati de programare, facandu-ne vizibili si pe [Instagram](https://www.instagram.com/games.cnscm/),
-dar ne am creat si propriul [site](https://gamescnscm.github.io/)
+dar ne am creat si propriul [site](https://gamescnscm.github.io/). Din experienta asta am iesit castigati ca si comunitate, deoarece am deschis
+mai multor copii noi orizonturi in ceea ce priveste programarea, dar si pe plan personal, intrucat am deprins abilitati de predare si explicare 
+a concptelor din programare.
+
+In prezent sunt student la Facultatea de Matematica si Informatica din Bucuresti, unde am descoperit o noua sfera de interes, mai exact programarea
+low lvl si tot ce presupune gestiune de memorie, pointeri, dar si cum poti sa te folosesti de acestea pentru a exploata sisteme in mod distructiv
+(ma fascineaza ethical hacking). Asadar acum sunt in proces de descoperire a ce presupune securitatea cibernetica, iar aceasta poveste va fi contiuata 
+dupa ce descopar cum sa fac si altceva in afara de buffer overflow.
+
+Cyber Security .......................................................................................................................loading[#.........]
