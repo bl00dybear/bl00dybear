@@ -1,7 +1,7 @@
 ## Opa! Cu ce ocazie la mine pe git??
-##In fine...oricare ar fi motivul, clar vrei sa afli ceva despre mine, asa ca voi fi succint.
+## In fine...oricare ar fi motivul, clar vrei sa afli ceva despre mine, asa ca voi fi succint.
 
-#Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
+# Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din 
 
 
