@@ -11,7 +11,7 @@ Eu sunt Sincari Sebastian George, student in anul 1 la Facultatea de Matematica 
 
 
 
-
+---
 
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din liceu (clasa a 9-a) am descoperit programarea algoritmilor, practic atunci am deschis prima data un IDE. Entuziasmul a disparut 
@@ -32,4 +32,4 @@ low lvl si tot ce presupune gestiune de memorie, pointeri, dar si cum poti sa te
 (ma fascineaza ethical hacking). Asadar acum sunt in proces de descoperire a ce presupune securitatea cibernetica, iar aceasta poveste va fi contiuata 
 dupa ce descopar cum sa fac si altceva in afara de buffer overflow.
 
-Cyber Security .......................................................................................................................loading  [1/10...]
+Cyber Security .......................................................................................................................................................................loading  [1/10...]
