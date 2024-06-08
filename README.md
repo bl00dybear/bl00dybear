@@ -34,12 +34,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 ### Ce ma pasioneaza in domeniul programarii?
 Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselor. Practic sa inteleg tot ce se intampla de la butoul de RUN pana la outputul din terminal.
 
+<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
 ---
 ## Cum de programare?
 
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din liceu (clasa a 9-a) am descoperit programarea algoritmilor, practic atunci am deschis prima data un IDE. Entuziasmul a disparut 
-relativ rapid in momentul in care pandemia m-a obligat sa raman in cas. 
+relativ rapid in momentul in care pandemia m-a obligat sa raman in casa. 
 
 Cum internetul a fost principala forma de a-ti ocupa timpul, am ales cu alti 3 colegi sa invatam sa programam ceva ce are rezultate mai
 vizibile decat statisticile Pbinfo. Aici a inceput perioada din viata mea in care am programat jocuri in Unity, folosind ca limbaj C#. 
