@@ -44,10 +44,10 @@ Pasiunea mea este tot ce este low lvl si tine de gestiunea memoriei, a proceselo
   <img width="600px"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgzdTBocmVlNmZnazRuOTlxdHlkdDF6YWF1bzEzdGtiN2poMGZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </p>
 <br/>
-
 ---
-## Cum de programare?
 
+<details>
+  <summary>Cum de programare?</summary>
 Sunt un tanar programator la 20 de ani, pasionat de tot ce are leduri si biti, iar pasiunea asta o am de cand am descoperit curentul.
 Din liceu (clasa a 9-a) am descoperit programarea algoritmilor, practic atunci am deschis prima data un IDE. Entuziasmul a disparut 
 relativ rapid in momentul in care pandemia m-a obligat sa raman in casa. 
@@ -66,4 +66,9 @@ In prezent sunt student la Facultatea de Matematica si Informatica din Bucuresti
 low lvl si tot ce presupune gestiune de memorie, pointeri, dar si cum poti sa te folosesti de acestea pentru a exploata sisteme in mod distructiv
 (ma fascineaza ethical hacking). Asadar acum sunt in proces de descoperire a ce presupune securitatea cibernetica, iar aceasta poveste va fi contiuata 
 dupa ce descopar cum sa fac si altceva in afara de buffer overflow.
+</details>
+---
+## Cum de programare?
+
+
 
