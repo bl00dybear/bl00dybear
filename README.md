@@ -70,7 +70,7 @@ dupa ce descopar cum sa fac si altceva in afara de buffer overflow.
 
 <iframe src="https://giphy.com/embed/QbumCX9HFFDQA" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fury-kung-hackerman-QbumCX9HFFDQA">via GIPHY</a></p>
 <p align="center">
-  <img width="600px"  src="ttps://giphy.com/embed/QbumCX9HFFDQA"/>
+  <img width="600px"  src="https://giphy.com/embed/QbumCX9HFFDQA"/>
 </p>
 
 </details>
