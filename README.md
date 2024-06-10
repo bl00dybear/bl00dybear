@@ -46,7 +46,7 @@ Pasiunea mea este tot ce presupune programare si intelegerea limbajelor low leve
 <br/>
 
 ### Ce am facut extra?
-Curiozitatea m-a facut in liceu sa invat singur cum se programeaza jocurile, si care sunt principalele mecanisme din spatele ecranului, iar acum sunt in curs de invatare a ce presupune ethical hacking si cyber security.
+Curiozitatea m-a facut in liceu sa invat singur cum se programeaza jocurile, sa imbin principii de fizica cu programarea, sa invat cum se fac optimizari pe partea de grafica. Acum sunt in curs de invatare a ce presupune ethical hacking si cyber security.
 <br/>
 
 <details>
