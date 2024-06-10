@@ -2,7 +2,7 @@
 ## In fine...oricare ar fi motivul, clar vrei sa afli ceva despre mine, asa ca voi fi succint.
 
 ### Cine sunt?
-Eu sunt Sincari Sebastian George, student in anul 1 la Facultatea de Matematica si Informatica, UniBuc.
+Eu sunt Sincari Sebastian George, student in anul 1 la Facultatea de Matematica si Informatica, Universitatea Bucuresti.
 
 ### Ce limbaje si cu ce tool-uri lucrez?
 <img align="left" alt="icon" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
