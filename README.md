@@ -45,6 +45,10 @@ Pasiunea mea este tot ce presupune programare si intelegerea limbajelor low leve
 </p>
 <br/>
 
+### Ce am facut extra?
+Curiozitatea m-a facut in liceu sa invat singur cum se programeaza jocurile, si care sunt principalele mecanisme din spatele ecranului, iar acum sunt in curs de invatare a ce presupune ethical hacking si cyber security.
+<br/>
+
 <details>
   <summary><h3>Poveste plictisitoare</h3></summary>
 <h4>Cum de programare?</h4>
