@@ -43,6 +43,7 @@
                          |___  /____/\____/ \____/\____ |/ ____|  |___  /\___  >____  /__|   
                              \/                        \/\/           \/     \/     \/  
 
+![image](https://github.com/user-attachments/assets/84d09c5d-3153-49e8-9ef7-8f64da0e1dfb)
 
 
 <img align="left" alt="icon" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
