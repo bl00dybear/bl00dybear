@@ -7,7 +7,7 @@
                              \/                        \/\/           \/     \/     \/  
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3087eca-8b71-4f22-8659-fb7fa3a0d668" alt="Imagine exemplu" />
+  <img src="https://github.com/user-attachments/assets/08617cd6-308f-49e3-91a6-c76663860f28" alt="Imagine exemplu" />
 </p>
 
 
