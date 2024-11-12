@@ -10,4 +10,4 @@
              ░          ░  ░    ░ ░      ░ ░     ░    ░ ░         ░         ░  ░     ░  ░   ░     
                   ░                            ░      ░ ░              ░                      
 ```
-![](./profile-3d-contrib/night-view-version.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
