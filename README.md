@@ -11,8 +11,3 @@
                   ░                            ░      ░ ░              ░                      
 ```
 ![](./profile-3d-contrib/profile-night-view.svg)
-
-
-
-https://github.com/user-attachments/assets/f5a5f4ca-bd65-465e-a997-2f924d2a12d9
-
