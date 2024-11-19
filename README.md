@@ -11,4 +11,8 @@
                   ░                            ░      ░ ░              ░                      
 ```
 ![](./profile-3d-contrib/profile-night-view.svg)
-<iframe src="https://lottie.host/embed/647aff5d-7c03-48c7-bb6e-dddd07b10ac6/gWVC8mjN94.json"></iframe>
+
+
+
+https://github.com/user-attachments/assets/f5a5f4ca-bd65-465e-a997-2f924d2a12d9
+
