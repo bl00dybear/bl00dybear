@@ -10,6 +10,6 @@
              ░          ░  ░    ░ ░      ░ ░     ░    ░ ░         ░         ░  ░     ░  ░   ░     
                   ░                            ░      ░ ░              ░                      
 ```
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1mOWxzN2R1YTIycm1ieTQ0cm5zb205dXBweTUxc2g5OXNsYng2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
+
 ![](./profile-3d-contrib/profile-night-view.svg)
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
